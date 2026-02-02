@@ -1,0 +1,10 @@
+GIT COMMANDS
+
+git remote add origin https://github.com/suganyaselvaraj11/Django.git
+
+git checkout -b project2
+
+git commit -m "CRUD demo"
+
+
+git push --set-upstream origin project2
